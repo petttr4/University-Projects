@@ -1,0 +1,3216 @@
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_1.txt sol10_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_2.txt sol10_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_3.txt sol10_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_4.txt sol10_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_5.txt sol10_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_6.txt sol10_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_7.txt sol10_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_8.txt sol10_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_9.txt sol10_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_10.txt sol10_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt sol10_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt sol10_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt sol10_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt sol10_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt sol10_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt sol10_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt sol10_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt sol10_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt sol10_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt sol10_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_1.txt sol20_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_2.txt sol20_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_3.txt sol20_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_4.txt sol20_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_5.txt sol20_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_6.txt sol20_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_7.txt sol20_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_8.txt sol20_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_9.txt sol20_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_10.txt sol20_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt sol20_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt sol20_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt sol20_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt sol20_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt sol20_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt sol20_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt sol20_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt sol20_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt sol20_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt sol20_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_1.txt sol30_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_2.txt sol30_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_3.txt sol30_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_4.txt sol30_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_5.txt sol30_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 44
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_6.txt sol30_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_7.txt sol30_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_8.txt sol30_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_9.txt sol30_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_10.txt sol30_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt sol30_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt sol30_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt sol30_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt sol30_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt sol30_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt sol30_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt sol30_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt sol30_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt sol30_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt sol30_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_1.txt sol40_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_2.txt sol40_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 87
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_3.txt sol40_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_4.txt sol40_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 20
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_5.txt sol40_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 24
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_6.txt sol40_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_7.txt sol40_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_8.txt sol40_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_9.txt sol40_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_10.txt sol40_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt sol40_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt sol40_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt sol40_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt sol40_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt sol40_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt sol40_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt sol40_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt sol40_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt sol40_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt sol40_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_1.txt sol50_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_2.txt sol50_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_3.txt sol50_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 16
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_4.txt sol50_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_5.txt sol50_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 79
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_6.txt sol50_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_7.txt sol50_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_8.txt sol50_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 54
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_9.txt sol50_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_10.txt sol50_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt sol50_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt sol50_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt sol50_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt sol50_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt sol50_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt sol50_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt sol50_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt sol50_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt sol50_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt sol50_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_1.txt sol60_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 96
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_2.txt sol60_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_3.txt sol60_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 42
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_4.txt sol60_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 56
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_5.txt sol60_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_6.txt sol60_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_7.txt sol60_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_8.txt sol60_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 60
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_9.txt sol60_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 83
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_10.txt sol60_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt sol60_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt sol60_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt sol60_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt sol60_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt sol60_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt sol60_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt sol60_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt sol60_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt sol60_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt sol60_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_1.txt sol70_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 42
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_2.txt sol70_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_3.txt sol70_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_4.txt sol70_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 75
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_5.txt sol70_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 134
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_6.txt sol70_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_7.txt sol70_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_8.txt sol70_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 95
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_9.txt sol70_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 130
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_10.txt sol70_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt sol70_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt sol70_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt sol70_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt sol70_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt sol70_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt sol70_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt sol70_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt sol70_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt sol70_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt sol70_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_1.txt sol80_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_2.txt sol80_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 144
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_3.txt sol80_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 121
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_4.txt sol80_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_5.txt sol80_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 143
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_6.txt sol80_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 46
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_7.txt sol80_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_8.txt sol80_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 154
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_9.txt sol80_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of steps: 216
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_10.txt sol80_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 38
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt sol80_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt sol80_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt sol80_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt sol80_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt sol80_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt sol80_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt sol80_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt sol80_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 20
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt sol80_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt sol80_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_1.txt sol90_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 133
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_2.txt sol90_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.002000 secs
+Number of steps: 207
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_3.txt sol90_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 26
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_4.txt sol90_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 157
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_5.txt sol90_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 197
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_6.txt sol90_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_7.txt sol90_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 78
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_8.txt sol90_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 49
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_9.txt sol90_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 70
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_10.txt sol90_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 19
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_1.txt sol90_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 628822
+Number of steps: 1818704
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_2.txt sol90_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 609835
+Number of steps: 1788968
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt sol90_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_4.txt sol90_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 560592
+Number of steps: 1593393
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt sol90_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt sol90_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt sol90_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt sol90_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt sol90_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt sol90_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_1.txt sol100_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 139
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_2.txt sol100_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 146
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_3.txt sol100_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 85
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_4.txt sol100_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 50
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_5.txt sol100_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_6.txt sol100_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 117
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_7.txt sol100_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_8.txt sol100_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 120
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_9.txt sol100_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_10.txt sol100_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 179
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_1.txt sol100_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.012001 secs
+Number of restarts: 520962
+Number of steps: 1533890
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt sol100_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt sol100_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt sol100_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt sol100_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt sol100_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt sol100_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt sol100_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt sol100_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_10.txt sol100_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 561205
+Number of steps: 1544938
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_1.txt sol110_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 99
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_2.txt sol110_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_3.txt sol110_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 177
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_4.txt sol110_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 141
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_5.txt sol110_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 172
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_6.txt sol110_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.001000 secs
+Number of steps: 171
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_7.txt sol110_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 39
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_8.txt sol110_8_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_9.txt sol110_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 187
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_10.txt sol110_10_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 142
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt sol110_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 25
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt sol110_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_3.txt sol110_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.009998 secs
+Number of restarts: 475085
+Number of steps: 1387330
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_4.txt sol110_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.006001 secs
+Number of restarts: 366766
+Number of steps: 1127626
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_5.txt sol110_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007999 secs
+Number of restarts: 358197
+Number of steps: 1076431
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_6.txt sol110_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007999 secs
+Number of restarts: 444484
+Number of steps: 1323001
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt sol110_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 17
+Number of steps: 52
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt sol110_8_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_9.txt sol110_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 408923
+Number of steps: 1203220
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt sol110_10_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_1.txt sol120_1_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 93
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_2.txt sol120_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 167
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_3.txt sol120_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 166
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_4.txt sol120_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 192
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_5.txt sol120_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 122
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_6.txt sol120_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 124
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_7.txt sol120_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 170
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_8.txt sol120_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 126
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_9.txt sol120_9_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 40
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_10.txt sol120_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 131
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt sol120_1_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_2.txt sol120_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 378371
+Number of steps: 1183962
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_3.txt sol120_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014999 secs
+Number of restarts: 393261
+Number of steps: 1200749
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_4.txt sol120_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 358551
+Number of steps: 1175307
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_5.txt sol120_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 376809
+Number of steps: 1177136
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_6.txt sol120_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.006001 secs
+Number of restarts: 379552
+Number of steps: 1191804
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_7.txt sol120_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 387177
+Number of steps: 1208075
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_8.txt sol120_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 366444
+Number of steps: 1169405
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt sol120_9_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_10.txt sol120_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 399610
+Number of steps: 1185215
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_1.txt sol130_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.005000 secs
+Number of steps: 129
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_2.txt sol130_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 122
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_3.txt sol130_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 141
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_4.txt sol130_4_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 168
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_5.txt sol130_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 178
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_6.txt sol130_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 113
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_7.txt sol130_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.001000 secs
+Number of steps: 172
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_8.txt sol130_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 146
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_9.txt sol130_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 181
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_10.txt sol130_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_1.txt sol130_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.008999 secs
+Number of restarts: 334003
+Number of steps: 1081569
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_2.txt sol130_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 321323
+Number of steps: 1062363
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_3.txt sol130_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014999 secs
+Number of restarts: 345741
+Number of steps: 1102043
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt sol130_4_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_5.txt sol130_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337638
+Number of steps: 1090492
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_6.txt sol130_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 352585
+Number of steps: 1079711
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_7.txt sol130_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 334239
+Number of steps: 1057763
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_8.txt sol130_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 343326
+Number of steps: 1111026
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_9.txt sol130_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.008999 secs
+Number of restarts: 370792
+Number of steps: 1135967
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_10.txt sol130_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007999 secs
+Number of restarts: 359680
+Number of steps: 1134627
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_1.txt sol140_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 120
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_2.txt sol140_2_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 81
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_3.txt sol140_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 94
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_4.txt sol140_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 125
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_5.txt sol140_5_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 96
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_6.txt sol140_6_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 75
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_7.txt sol140_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 136
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_8.txt sol140_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 119
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_9.txt sol140_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 121
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_10.txt sol140_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.002000 secs
+Number of steps: 142
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_1.txt sol140_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.009998 secs
+Number of restarts: 323905
+Number of steps: 1048368
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt sol140_2_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_3.txt sol140_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 268363
+Number of steps: 823018
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_4.txt sol140_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.012001 secs
+Number of restarts: 234621
+Number of steps: 779798
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt sol140_5_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 22
+Number of steps: 69
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt sol140_6_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_7.txt sol140_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 230359
+Number of steps: 781334
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_8.txt sol140_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 33182.808594 secs
+Number of restarts: 195435
+Number of steps: 676444
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_9.txt sol140_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 13182.555664 secs
+Number of restarts: 5826
+Number of steps: 17341
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_10.txt sol140_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 228373
+Number of steps: 750449
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_1.txt sol150_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.009000 secs
+Number of steps: 160
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_2.txt sol150_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 94
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_3.txt sol150_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 137
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_4.txt sol150_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 80
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_5.txt sol150_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.002000 secs
+Number of steps: 118
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_6.txt sol150_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 130
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_7.txt sol150_7_depth1.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 86
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_8.txt sol150_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 116
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_9.txt sol150_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 112
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_10.txt sol150_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 95
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_1.txt sol150_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.004002 secs
+Number of restarts: 242643
+Number of steps: 761468
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_2.txt sol150_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 234711
+Number of steps: 801315
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_3.txt sol150_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.004002 secs
+Number of restarts: 229944
+Number of steps: 715451
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_4.txt sol150_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 245976
+Number of steps: 781865
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_5.txt sol150_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 190050
+Number of steps: 722897
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_6.txt sol150_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 225458
+Number of steps: 730897
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt sol150_7_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_8.txt sol150_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 269224
+Number of steps: 828467
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_9.txt sol150_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 254004
+Number of steps: 835139
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_10.txt sol150_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 277523
+Number of steps: 873288
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_1.txt sol160_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 130
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_2.txt sol160_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 152
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_3.txt sol160_3_depth1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_4.txt sol160_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 94
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_5.txt sol160_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 113
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_6.txt sol160_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 104
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_7.txt sol160_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 130
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_8.txt sol160_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 144
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_9.txt sol160_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 113
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_10.txt sol160_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 98
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_1.txt sol160_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 241530
+Number of steps: 821068
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_2.txt sol160_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.012001 secs
+Number of restarts: 239746
+Number of steps: 771173
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt sol160_3_hill1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_4.txt sol160_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.004002 secs
+Number of restarts: 241922
+Number of steps: 864779
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_5.txt sol160_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014000 secs
+Number of restarts: 249589
+Number of steps: 762706
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_6.txt sol160_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 277679
+Number of steps: 866632
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_7.txt sol160_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.006001 secs
+Number of restarts: 256038
+Number of steps: 830835
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_8.txt sol160_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.015999 secs
+Number of restarts: 225342
+Number of steps: 857421
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_9.txt sol160_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 264401
+Number of steps: 832334
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_10.txt sol160_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 260517
+Number of steps: 867963
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_1.txt sol170_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 104
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_2.txt sol170_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 121
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_3.txt sol170_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.007000 secs
+Number of steps: 121
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_4.txt sol170_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 126
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_5.txt sol170_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 113
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_6.txt sol170_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 117
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_7.txt sol170_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 120
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_8.txt sol170_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 113
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_9.txt sol170_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 145
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test170_10.txt sol170_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 83
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_1.txt sol170_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.004002 secs
+Number of restarts: 230268
+Number of steps: 793981
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_2.txt sol170_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 234009
+Number of steps: 778609
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_3.txt sol170_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.015999 secs
+Number of restarts: 246497
+Number of steps: 796048
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_4.txt sol170_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 215721
+Number of steps: 805804
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_5.txt sol170_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 235124
+Number of steps: 808215
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_6.txt sol170_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 251408
+Number of steps: 790973
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_7.txt sol170_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 240580
+Number of steps: 781640
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_8.txt sol170_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.012001 secs
+Number of restarts: 232242
+Number of steps: 788305
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_9.txt sol170_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007999 secs
+Number of restarts: 247611
+Number of steps: 794865
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test170_10.txt sol170_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 228096
+Number of steps: 790171
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_1.txt sol180_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.002000 secs
+Number of steps: 146
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_2.txt sol180_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 98
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_3.txt sol180_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 120
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_4.txt sol180_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 110
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_5.txt sol180_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 132
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_6.txt sol180_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 94
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_7.txt sol180_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 102
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_8.txt sol180_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 126
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_9.txt sol180_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 118
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test180_10.txt sol180_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 123
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_1.txt sol180_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.006001 secs
+Number of restarts: 226401
+Number of steps: 750891
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_2.txt sol180_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014000 secs
+Number of restarts: 233269
+Number of steps: 750188
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_3.txt sol180_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 243804
+Number of steps: 761264
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_4.txt sol180_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 218967
+Number of steps: 753189
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_5.txt sol180_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 217019
+Number of steps: 752491
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_6.txt sol180_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.009998 secs
+Number of restarts: 220949
+Number of steps: 753485
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_7.txt sol180_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 225609
+Number of steps: 742481
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_8.txt sol180_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 200731
+Number of steps: 734728
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_9.txt sol180_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014000 secs
+Number of restarts: 227490
+Number of steps: 730603
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test180_10.txt sol180_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 222573
+Number of steps: 737509
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_1.txt sol190_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 110
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_2.txt sol190_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 100
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_3.txt sol190_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 74
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_4.txt sol190_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 97
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_5.txt sol190_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 123
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_6.txt sol190_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 98
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_7.txt sol190_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 110
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_8.txt sol190_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 98
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_9.txt sol190_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 90
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test190_10.txt sol190_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.006000 secs
+Number of steps: 114
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_1.txt sol190_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 209502
+Number of steps: 707582
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_2.txt sol190_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.014999 secs
+Number of restarts: 218060
+Number of steps: 699014
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_3.txt sol190_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 207849
+Number of steps: 706995
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_4.txt sol190_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 196740
+Number of steps: 689265
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_5.txt sol190_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.015999 secs
+Number of restarts: 201307
+Number of steps: 711624
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_6.txt sol190_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 203163
+Number of steps: 670691
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_7.txt sol190_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.005001 secs
+Number of restarts: 193848
+Number of steps: 699338
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_8.txt sol190_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 231143
+Number of steps: 715464
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_9.txt sol190_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 191200
+Number of steps: 692699
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test190_10.txt sol190_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 206549
+Number of steps: 711827
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_1.txt sol200_1_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 94
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_2.txt sol200_2_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 118
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_3.txt sol200_3_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 105
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_4.txt sol200_4_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 108
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_5.txt sol200_5_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 104
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_6.txt sol200_6_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 114
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_7.txt sol200_7_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 76
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_8.txt sol200_8_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 77
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_9.txt sol200_9_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 106
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test200_10.txt sol200_10_depth1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 95
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_1.txt sol200_1_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 206440
+Number of steps: 664430
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_2.txt sol200_2_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.008999 secs
+Number of restarts: 184950
+Number of steps: 660816
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_3.txt sol200_3_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007000 secs
+Number of restarts: 191700
+Number of steps: 670719
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_4.txt sol200_4_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 188762
+Number of steps: 671747
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_5.txt sol200_5_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 198196
+Number of steps: 659152
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_6.txt sol200_6_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.004002 secs
+Number of restarts: 202750
+Number of steps: 641281
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_7.txt sol200_7_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.007999 secs
+Number of restarts: 203913
+Number of steps: 660352
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_8.txt sol200_8_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 30878.894531 secs
+Number of restarts: 37512
+Number of steps: 127093
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_9.txt sol200_9_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.006001 secs
+Number of restarts: 159223
+Number of steps: 501897
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test200_10.txt sol200_10_hill1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.011002 secs
+Number of restarts: 200984
+Number of steps: 687416
