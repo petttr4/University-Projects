@@ -1,0 +1,7 @@
+
+var int : x;
+var 10 .. 20.5 : y; 
+
+constraint x > y;
+
+solve satisfy;

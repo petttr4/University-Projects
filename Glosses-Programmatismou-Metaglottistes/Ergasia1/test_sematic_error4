@@ -1,0 +1,12 @@
+
+var int : x;
+
+var 10 .. 20 : y; 
+var float: y;
+
+var set_of bool: z;
+
+
+constraint x > y;
+
+solve satisfy;

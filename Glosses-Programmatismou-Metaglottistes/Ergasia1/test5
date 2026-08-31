@@ -1,0 +1,9 @@
+var int : x;
+var float : y;
+var bool : z;
+var 5..10 : a;
+
+constraint x > 10 and 5 =< x;
+constraint y < 10.0 ==>  a = x and y > 3.1;
+
+solve maximize a;

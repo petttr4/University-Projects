@@ -1,0 +1,12 @@
+var float : x;
+var int : w;
+par int: y;
+par float : z;
+par set_of 8..20 : set_a;
+
+var set_a: newX;
+
+constraint newX + w = 13;
+constraint newX + w = y;
+
+solve maximize x;

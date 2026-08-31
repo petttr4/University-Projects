@@ -1,0 +1,12 @@
+var int : x;
+var int : x2;
+var int : x3;
+var float : y;
+var bool : z;
+var 5 .. 10 : a;
+
+constraint x > 10 and y =< 10.3;
+constraint z and x3 = x + 10 and x3 > 2 and y < 9.0 ==> a = x + x2 * 10 + 2/x2;
+
+
+solve maximize a;

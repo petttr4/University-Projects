@@ -1,0 +1,6 @@
+var int : x;
+var float : y;
+
+constraint x > 10 and y =< 10.3;
+
+solve satisfy;

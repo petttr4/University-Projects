@@ -1,0 +1,13 @@
+
+var int : x;
+var 10 .. 20 : y; 
+var int : z;
+
+var set_of int: seta;
+var set_of float: setb;
+
+constraint x subset y intersect z;
+constraint seta subset setb;
+constraint x in setb;
+
+solve satisfy;

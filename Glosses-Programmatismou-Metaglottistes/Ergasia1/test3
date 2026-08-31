@@ -1,0 +1,9 @@
+var int : x;
+var float : y;
+var float : w;
+var int :z;
+
+constraint x > 10 and y =< w;
+constraint z = x + 10;
+
+solve satisfy;
