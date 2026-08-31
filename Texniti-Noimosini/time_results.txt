@@ -1,0 +1,5724 @@
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test10_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test10_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test20_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test20_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 44
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test30_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test30_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 87
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 20
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 24
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test40_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test40_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 16
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 79
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 54
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test50_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test50_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 96
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 42
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 56
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 60
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 83
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test60_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test60_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 42
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 75
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 134
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 95
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_9.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 130
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test70_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test70_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_2.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 144
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 121
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_5.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 143
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 46
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_8.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 154
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_9.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 216
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test80_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 38
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 24
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test80_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 26
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_5.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 197
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 78
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 49
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 70
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test90_10.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 19
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.009000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 10
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 32
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test90_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_2.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 146
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of steps: 85
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_4.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of steps: 50
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_5.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_6.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 117
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_8.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 120
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test100_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 34
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 11
+Number of steps: 36
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test100_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_1.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 99
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_2.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_7.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 39
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_8.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test110_10.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 142
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 8
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 8
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 8
+Number of steps: 29
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 9
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 21
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_8.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 23
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test110_10.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_1.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 93
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test120_9.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of steps: 40
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 33
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 45
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 33
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.008000 secs
+Number of restarts: 45
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 9
+Number of steps: 33
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 45
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 33
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.008000 secs
+Number of restarts: 45
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_1.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 33
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test120_9.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 45
+Number of steps: 156
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test130_4.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 168
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test130_4.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_2.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 81
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_5.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 96
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test140_6.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 75
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_2.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_5.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test140_6.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test150_7.txt output 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 86
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test150_7.txt output 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe depth test160_3.txt output 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 28
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\owner\Desktop\SourceCode>bcsp.exe hill test160_3.txt output 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
