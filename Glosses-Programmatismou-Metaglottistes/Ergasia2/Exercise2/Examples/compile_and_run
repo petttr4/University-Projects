@@ -1,0 +1,20 @@
+#!/bin/sh
+echo "** Cleaning up previous Files **********************"
+rm -f $1.j 
+rm -f $1.class
+../jvmLExp $1  $1.j
+echo
+echo "** Compiler Finished! **********************"
+if [ -f $1.j ]; then
+    echo "** Starting Jasmin Assembler ***************"
+    jasmin $1.j
+    echo "** Assembler Finished! *********************"
+    if [ -f $1.class ]; then
+       echo "** Executing code in Java ******************"
+       java $1
+    else
+       echo "No Class file Generated!"
+    fi   
+else
+   echo "No jasmin (.j) File Generated"
+fi   
