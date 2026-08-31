@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Μηχανή Αναζήτησης</title>
+</head>
+<body>
+    <h1>Μηχανή Αναζήτησης</h1>
+    <form action="/search" method="get">
+        <input type="text" name="q" placeholder="Εισάγετε το ερώτημα" size="40" required>
+        <button type="submit">Αναζήτηση</button>
+        <hr>
+        <p><b>1. Λογικός Τελεστής:</b></p>
+        <label><input type="radio" name="operator" value="&" checked> ΚΑΙ (AND)</label>
+        <label><input type="radio" name="operator" value="|"> Ή (OR)</label>
+        
+        <p><b>2. Πεδίο Αναζήτησης(περιορισμός):</b></p>
+        <label><input type="radio" name="scope" value="both_or" checked> Τίτλος Ή Περίληψη (Title OR Abstract) </label><br>
+        <label><input type="radio" name="scope" value="both_and"> Τίτλος ΚΑΙ Περίληψη (Title AND Abstract) </label><br>
+        <label><input type="radio" name="scope" value="title"> Μόνο Τίτλος (Title Only) </label><br>
+        <label><input type="radio" name="scope" value="abstract"> Μόνο Περίληψη (Abstract Only) </label>
+    </form>
+</body>
+</html>

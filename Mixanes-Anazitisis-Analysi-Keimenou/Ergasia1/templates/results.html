@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Αποτελέσματα</title>
+ </head>
+<body>
+<h1>Results({{ total }})</h1>
+
+<a href="/">Επιστροφή στην αναζήτηση</a>
+<hr>
+
+{% for row in rows %}
+ <div>
+        <h3>{{ row[1] }}   </h3>
+        <p><strong>ID:</strong> {{ row[0] }}  <strong>Rank:</strong> {{ row[2] }}</p>
+    </div>
+    <hr>
+{% endfor %}
+ </body>
+</html>
